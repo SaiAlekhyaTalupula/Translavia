@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.fa-hotel{
+    color: azure;
+    font-size: 30px;
+}
+
+header{
+    background-color: #00397a;
+    height: 65px;
+    position: sticky;
+    padding-left: 30px;
+    font-family: sans-serif;
+}
+
+h1{
+    padding: 20px;
+    padding-top: 8px;
+    padding-left: 30px;
+    color: #37ffcd;
+    width: 60%;
+}
+
+.af{
+    color: #fff;
+}
+
+.af:hover{
+    color: #37ffcd;
+}
+
+h1,a{
+    display: inline-block;
+    color: #37ffcd;
+}
+
+a{
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+.fa-hotel{
+    padding-right:20px ;
+    color: #ffffff;
+}
+
+
+.mainimg{
+    width: 75%;
+    height: 651px;
+}
+
+.booking{
+    margin-top: 50px;
+    width: 25%;
+    float: right;
+}
+
+.pin,.check{
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    border-width: 0 0 2px 0;
+    border-color: #00397a;
+}
+
+.check{
+    background-color:#37ffcd;
+    color: #00397a;
+    border: 0;
+    height: 50px;
+    font-weight: 500;
+    font-size:20px;
+    border-radius: 20px;
+}
+.check:hover{
+    background-color:#00397a;
+    color: #37ffcd;
+    border: 0;
+    height: 50px;
+    font-weight: 500;
+}
+.h1{
+    color: #00397a;
+    font-size: 40px;
+    margin-left: 20px;
+
+}
+
+
+footer{
+    position:fixed;
+    bottom: 0;
+    height: 30px;
+    background-color: #00397a;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+
+i{
+    font-size: 20px;
+    padding: 5px 20px;
+}
+
+.abimg{
+    height: 651px;
+    width: 100%;
+    margin: 0 auto;
+    position: absolute;
+    z-index: -1;
+}
+
+.abimgi{
+    width: 100%;
+    height: 100%;
+}
+
+.about{
+    background-color: #00397aee;
+    color: #37ffcd;
+    margin-left: 5%;
+    margin-top: 100px;
+    position: absolute;
+    width: 90%;
+    height: 500px;
+    text-align: justify;
+    box-shadow: 2px 4px 8px #00397a96;
+}
+
+.abb{
+    width: 100%;
+    height: 745px;
+    background-image: url("abimg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.ah1{
+    color: #37ffcd;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.ap{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 25px;
+    color: #ffffff;
+}
+
+.in{
+    width: 80%;
+    margin: 10%;
+}
+
+.acheck{
+    width: 30%;
+    margin-left:35% ;
+    margin-top: 35px;
+    box-shadow: 1px 4px 3px #37ffcd50;
+    border-radius: 10px;
+}
+
+.acheck:hover{
+    background-color: #ffffff;
+    color: #00397a;
+}
+
+.fmain{
+    width: 90%;
+    margin-left: 8%;
+}
+
+.box{
+    margin-top: 50px;
+    width: 23%;
+    height: 500px;
+    background-color: #00397a;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px #00397a7e;
+}
+
+.fimg{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+
+.fh3{
+    margin-top: 20px;
+    text-align: center;
+    color: #37ffcd;
+}
+
+.fp{
+    color: #ffffff;
+    padding: 0 20px;
+    text-align: justify;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.fcheck{
+    margin-top: 30px;
+    width: 30%;
+    margin-left: 35%;
+    box-shadow: 1px 4px 3px #37ffcd50;
+}
+
+.prmain{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.prp{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.prt{
+    text-align: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.prf{
+    position: fixed;
+}
+
+.primg{
+    height: 350px;
+}
+
+.prbox{
+    width: 40%;
+    margin-left:2.5%;
+    margin-right: 2.5%;
+    height: 650px;
+}
+
+.prcheck{
+    margin-bottom: 50px;
+}
+
+.pri{
+    margin-top: 10px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+}
+
+.prh3{
+    font-size: 30px;
+}
+
+.prpl{
+    width: 80%;
+    margin-left: 10%;
+    color: #ffffff;
+}
+
+.ch3{
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+}
+.cuf{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.cf{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.cui{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cub{
+    background-color: #37ffcd;
+    color: #00397a;
+    border: 0;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 18px;
+    box-shadow: 1px 2px 1px #37ffcd;
+}
+
+.cub:hover{
+    color: #37ffcd;
+    background-color: #00397a;
+}
+textarea{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.c{
+    margin-top: 50px;
+    height: 550px;
+}
